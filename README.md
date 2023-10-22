@@ -15,11 +15,11 @@
 9. Study case
 
 ### SECTION 2. INTERNATIONAL ACCOUNTING
-Module 10. Introduction to Accounting
-Module 11. Accounting in Spain
-Module 12. International Accounting Standards
-Module 13. Financial Statements
-Module 14. Study case
+10. Introduction to Accounting
+11. Accounting in Spain
+12. International Accounting Standards
+13. Financial Statements
+14. Study case
 
 #### SECTION 3. FINANCIAL MANAGEMENT
 Module 15. Economic and Financial Structure of a Company
