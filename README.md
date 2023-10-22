@@ -3,16 +3,16 @@
 
 ## The MBA + Master in Big Data and Business Intelligence has the following accomplishments
 
-### SECTION 1. STRATEGIC MANAGEMENT
+### SECTION 1. STRATEGIC MANAGEMENT MODULES
 1. Fundamentals of Strategic Management
 2. Strategic Objectives
-Module 3. The Strategic Process
-Module 4. The Strategic Formulation
-Module 5. Strategic Analysis (in the dynamics of business management)
-Module 6. Development of a Strategy
-Module 7. Creation and Implementation of the Management Strategy
-Module 8. The Balanced Scorecard (BS)
-Module 9. Study case
+3. The Strategic Process
+4. The Strategic Formulation
+5. Strategic Analysis (in the dynamics of business management)
+6. Development of a Strategy
+7. Creation and Implementation of the Management Strategy
+8. The Balanced Scorecard (BS)
+9. Study case
 
 ### SECTION 2. INTERNATIONAL ACCOUNTING
 Module 10. Introduction to Accounting
