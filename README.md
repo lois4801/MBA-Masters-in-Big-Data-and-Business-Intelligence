@@ -5,7 +5,7 @@
 
 ### SECTION 1. STRATEGIC MANAGEMENT
 1. Fundamentals of Strategic Management
-Module 2. Strategic Objectives
+2. Strategic Objectives
 Module 3. The Strategic Process
 Module 4. The Strategic Formulation
 Module 5. Strategic Analysis (in the dynamics of business management)
