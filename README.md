@@ -22,140 +22,140 @@
 14. Study case
 
 #### SECTION 3. FINANCIAL MANAGEMENT
-Module 15. Economic and Financial Structure of a Company
-Module 16. Economic and Financial Analyses
-Module 17. Costs and Benefits of a Company
-Module 18. The Cost of Short-term Financial Resources
-Module 19. The Cost of Long-term Resources
-Module 20. Selection and Hierarchical Evaluation of Simple Investment Projects: NPV and IRR
-Module 21. Short and Long Term Financial Planning
-Module 22. Self-financing of the Company and Dividend Policy
-Module 23. Study case
+15. Economic and Financial Structure of a Company
+16. Economic and Financial Analyses
+17. Costs and Benefits of a Company
+18. The Cost of Short-term Financial Resources
+19. The Cost of Long-term Resources
+20. Selection and Hierarchical Evaluation of Simple Investment Projects: NPV and IRR
+21. Short and Long Term Financial Planning
+22. Self-financing of the Company and Dividend Policy
+23. Study case
 
 ### SECTION 4. PERSONNEL MANAGEMENT AND ORGANISATIONAL BEHAVIOUR
-Module 24. Teams: Contextual Aspects
-Module 25. Managing a Work Team
-Module 26. Empowerment: Getting the best out of your team and collaborators
-Module 27. Leading Your Team Effectively: Strategies
-Module 28. Study case
+24. Teams: Contextual Aspects
+25. Managing a Work Team
+26. Empowerment: Getting the best out of your team and collaborators
+27. Leading Your Team Effectively: Strategies
+28. Study case
 
 ### SECTION 5. BIG DATA AND BUSINESS INTELLIGENCE
-Module 29. Big Data and Business Intelligence
-Module 30. Data Storage Systems
-Module 31. How to Design a Big Data Project
-Module 32. Study case
+29. Big Data and Business Intelligence
+30. Data Storage Systems
+31. How to Design a Big Data Project
+32. Study case
 
 ### SECTION 6. THE ETL PROCESS
-Module 33. The ETL Process (Extract, Transform and Load)
-Module 34. Data Integration
-Module 35. Deploying an ETL Process
-Module 36. Study case
+33. The ETL Process (Extract, Transform and Load)
+34. Data Integration
+35. Deploying an ETL Process
+36. Study case
 
 ### SECTION 7. CUSTOMER ANALYTICS
-Module 37. Customer Analytics
-Module 38. Customer Segmentation
-Module 39. Customer Value Management
-Module 40. Study case
+37. Customer Analytics
+38. Customer Segmentation
+39. Customer Value Management
+40. Study case
 
 ### SECTION 8. BIG DATA MARKETING
-Module 41. Big Data Marketing
-Module 42. Web and Mobile Analytics
-Module 43. Loyalty Programs
-Module 44. Study case
+41. Big Data Marketing
+42. Web and Mobile Analytics
+43. Loyalty Programs
+44. Study case
 
 ### SECTION 9. EXECUTIVE COACHING
-Module 45. Coaching: Basics and Fundamentals
-Module 46. Coaching Types and Coaching in Organisations
-Module 47. Coaching Process and Methodology
-Module 48. Theoretical Framework and Other Coaching Tools
-Module 49. Study case
+45. Coaching: Basics and Fundamentals
+46. Coaching Types and Coaching in Organisations
+47. Coaching Process and Methodology
+48. Theoretical Framework and Other Coaching Tools
+49. Study case
 
 ### SECTION 10. NLP (NEURO-LINGUISTIC PROGRAMMING)
-Module 50. Introduction to NLP
-Module 51. NLP Presuppositions, Feedback and Goals
-Module 52. Representational Systems, Eye Accessing Cues, Rapport and Sensory Cues
-Module 53. The Meta Model, Calibration, Dissociated and Associated State, and Anchoring
-Module 54. Submodalities, Hypnosis and Emotional Intelligence
-Module 55. Conflict Resolution, Metaphors and Advanced TOTE Models
-Module 56. Study case
+50. Introduction to NLP
+51. NLP Presuppositions, Feedback and Goals
+52. Representational Systems, Eye Accessing Cues, Rapport and Sensory Cues
+53. The Meta Model, Calibration, Dissociated and Associated State, and Anchoring
+54. Submodalities, Hypnosis and Emotional Intelligence
+55. Conflict Resolution, Metaphors and Advanced TOTE Models
+56. Study case
 
 ### SECTION 11. CORPORATE SOCIAL RESPONSIBILITY
-Module 57. Corporate Social Responsibility: Basics and Foundation
-Module 58. Stakeholders
-Module 59. Communication and Transparency
-Module 60. Areas of Action
-Module 61. Components of CSR Management
-Module 62. CSR Measurement
-Module 63. Study case
+57. Corporate Social Responsibility: Basics and Foundation
+58. Stakeholders
+59. Communication and Transparency
+60. Areas of Action
+61. Components of CSR Management
+62. CSR Measurement
+63. Study case
 
 ### SECTION 12. E-COMMERCE
-Module 64. Introduction to E-Commerce
-Module 65. New Technologies and Value Chain
-Module 66. Business Management
-Module 67. Advertising and Marketing
-Module 68. Customer Service, Logistics and Payment Systems
-Module 69. Security Systems and Legal Aspects
-Module 70. Present and Future of E-Commerce
-Module 71. Study case
+64. Introduction to E-Commerce
+65. New Technologies and Value Chain
+66. Business Management
+67. Advertising and Marketing
+68. Customer Service, Logistics and Payment Systems
+69. Security Systems and Legal Aspects
+70. Present and Future of E-Commerce
+71. Study case
 
 ### SECTION 13. WEB POSITIONING
-Module 72. SEO Basics
-Module 73. Optimisation and Tools
-Module 74. Mobile SEO
-Module 75. Content and Marketing
-Module 76. SEO Campaign and Measurement
-Module 76. Study case
+72. SEO Basics
+73. Optimisation and Tools
+74. Mobile SEO
+75. Content and Marketing
+76. SEO Campaign and Measurement
+76. Study case
 
 ### SECTION 14. COMMUNITY MANAGER
-Module 77. Introduction to Community Management
-Module 78. Social Web and Social Media
-Module 79. Social Networks
-Module 80. Social Multimedia and Other Platforms
-Module 81. Social Media Plan
-Module 82. Study case
+77. Introduction to Community Management
+78. Social Web and Social Media
+79. Social Networks
+80. Social Multimedia and Other Platforms
+81. Social Media Plan
+82. Study case
 
 ### SECTION 15. MARKETING
-Module 83. Strategic Marketing
-Module 84. Direct Marketing
-Module 85. Integrated Marketing Communication
-Module 86. Sales Promotion
-Module 87. Quantitative Analysis of Business Decisions
-Module 88. Prices
-Module 89. Study case
+83. Strategic Marketing
+84. Direct Marketing
+85. Integrated Marketing Communication
+86. Sales Promotion
+87. Quantitative Analysis of Business Decisions
+88. Prices
+89. Study case
 
 ### SECTION 16. SUPPLY CHAIN MANAGEMENT
-Module 90. Introduction to Logistics
-Module 91. Means of Transport
-Module 92. Incoterms
-Module 93. Foreign Trade
-Module 94. Customs and Commercial Documentation
-Module 95. Logistics in the 21st Century
-Module 96. Spanish Logistics Sector
-Module 97. Study case
+90. Introduction to Logistics
+91. Means of Transport
+92. Incoterms
+93. Foreign Trade
+94. Customs and Commercial Documentation
+95. Logistics in the 21st Century
+96. Spanish Logistics Sector
+97. Study case
 
 ### SECTION 17. MANAGEMENT OF INTERNATIONAL FINANCIAL SERVICES
-Module 98. Introduction to Labour Consultancy in Human Resources
-Module 99. Social Security
-Module 100. The Employment Contract
-Module 101. Prevention of Occupational Hazards
-Module 102. Study case
+98. Introduction to Labour Consultancy in Human Resources
+99. Social Security
+100. The Employment Contract
+101. Prevention of Occupational Hazards
+102. Study case
 
 ### SECTION 18. LEGAL BUSINESS ENVIRONMENT
-Module 103. Trade Law
-Module 104. Exchange Rights and Companies
-Module 105. Bankruptcy Laws
-Module 106. Study case
+103. Trade Law
+104. Exchange Rights and Companies
+105. Bankruptcy Laws
+106. Study case
 
 ### SECTION 19. INTERNATIONAL CORPORATE TAX
-Module 107. Introduction to Spanish Corporate Tax
-Module 108. Corporate Tax in Spain
-Module 109. Worldwide Taxation of Profits
-Module 110. Study case
+107. Introduction to Spanish Corporate Tax
+108. Corporate Tax in Spain
+109. Worldwide Taxation of Profits
+110. Study case
 
 ### SECTION 20. INTERNATIONAL TRADE
-Module 111. International Trade Theories
-Module 112. The Competitive Advantage of Nations
-Module 113. World Trade Organization (WTO)
-Module 114. Economic Globalisation and National Economies
-Module 115. International Negotiation and Foreign Trade in Spain
-Module 116. Study case
+111. International Trade Theories
+112. The Competitive Advantage of Nations
+113. World Trade Organization (WTO)
+114. Economic Globalisation and National Economies
+115. International Negotiation and Foreign Trade in Spain
+116. Study case
