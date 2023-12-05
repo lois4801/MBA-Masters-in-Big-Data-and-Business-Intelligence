@@ -1,4 +1,4 @@
-# MBA-Masters-in-Big-Data-and-Business-Intelligence
+# Masters in Business Administration and Masters Big Data
 
 
 ## The MBA + Master in Big Data and Business Intelligence has the following accomplishments
